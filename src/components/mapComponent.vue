@@ -13,7 +13,7 @@
             Maxlength="16"
             required
           />
-          <inpu4
+          <input
             type="text"
             name="Email"
             id="Email"
